@@ -80,11 +80,11 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="inline-block mb-4">
               <span className="text-2xl font-black tracking-tighter text-foreground">
-                INNVICTUS
+                Tu marca aquí
               </span>
             </Link>
             <p className="text-sm text-muted-foreground mb-4">
-              INNVICTUS es tu destino para sneakers exclusivos y moda urbana. Conectamos pasión con estilo en cada colección.
+              Tu marca aquí es tu destino para sneakers exclusivos y moda urbana. Conectamos pasion con estilo en cada coleccion.
             </p>
             <div className="flex gap-4">
               <a
@@ -175,7 +175,7 @@ export function Footer() {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-xs text-muted-foreground">
-              © 2026 INNVICTUS. Todos los derechos reservados. Tu Legado, Tu Estilo.
+              © 2026 Tu marca aquí. Todos los derechos reservados. Tu Legado, Tu Estilo.
             </p>
             <div className="flex items-center gap-6">
               <Link href="#" className="text-xs text-muted-foreground hover:text-foreground transition-colors">

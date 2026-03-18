@@ -45,7 +45,7 @@ export function CommunitySection() {
               </Button>
               <Button variant="outline" className="border-border hover:bg-foreground/10">
                 <Instagram className="mr-2 h-4 w-4" />
-                @innvictus
+                @tumarca
               </Button>
             </div>
           </div>
@@ -55,7 +55,7 @@ export function CommunitySection() {
               <div className="relative aspect-[3/4] rounded-xl overflow-hidden">
                 <Image
                   src="/images/community-1.jpg"
-                  alt="Comunidad Innvictus"
+                  alt="Comunidad Tu marca aquí"
                   fill
                   className="object-cover"
                 />

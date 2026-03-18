@@ -14,7 +14,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center">
             <span className="text-2xl font-black tracking-tighter text-foreground">
-              INNVICTUS
+              Tu marca aquí
             </span>
           </Link>
 

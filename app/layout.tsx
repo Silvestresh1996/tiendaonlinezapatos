@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Innvictus | Sneakers & Urban Fashion',
+  title: 'Tu marca aquí | Sneakers & Urban Fashion',
   description: 'Tu destino para sneakers exclusivos y moda urbana. Nike, Adidas, New Balance y más.',
   generator: 'v0.app',
   icons: {
